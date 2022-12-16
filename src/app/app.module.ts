@@ -72,6 +72,7 @@ import { ContextMenuToggleDemoComponent } from './context-menu/context-menu-togg
 import { ContextMenuLazyLoadDemoComponent } from './context-menu/context-menu-lazy-load.demo';
 import { ContextualActionPanelDemoModule } from './contextual-action-panel/contextual-action-panel.demo.module';
 import { DataGridBreadcrumbDemoComponent } from './datagrid/datagrid-breadcrumb.demo';
+import { DataGridSandboxDemoComponent } from './datagrid/datagrid-sandbox.demo';
 import {
   DataGridAngularEditorDemoComponent,
   DemoCellInputEditorComponent,
@@ -352,6 +353,7 @@ import { DataGridRowSpanDemoComponent } from './datagrid/datagrid-rowspan.demo';
     ContextMenuSharedDemoComponent,
     ContextMenuToggleDemoComponent,
     ContextMenuLazyLoadDemoComponent,
+    DataGridSandboxDemoComponent,
     DataGridBreadcrumbDemoComponent,
     DataGridCardDemoComponent,
     DataGridAngularEditorDemoComponent,
